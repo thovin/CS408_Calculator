@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="sevenButton">7</string>
+    <string name="eightButton">8</string>
+    <string name="nineButton">9</string>
+    <string name="sqrtButton">\u221A</string>
+    <string name="clearButton">C</string>
+    <string name="fourButton">4</string>
+    <string name="fiveButton">5</string>
+    <string name="sixButton">6</string>
+    <string name="divButton">\u00F7</string>
+    <string name="percButton">%</string>
+    <string name="oneButton">1</string>
+    <string name="twoButton">2</string>
+    <string name="threeButton">3</string>
+    <string name="multiButton">\u00D7</string>
+    <string name="subButton">-</string>
+    <string name="sinButton">\u00B1</string>
+    <string name="zeroButton">0</string>
+    <string name="decButton">.</string>
+    <string name="addButton">+</string>
+    <string name="eqButton">=</string>
+</resources>
